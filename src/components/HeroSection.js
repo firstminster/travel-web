@@ -6,7 +6,7 @@ import videoUrl from '../assets/videos/video-2.mp4'
 const HeroSection = () => {
   return (
     <div className='hero-container'>
-      <video src={videoUrl} autoPlay loop muted />
+      {/* <video src={videoUrl} autoPlay loop muted /> */}
       <h1>ADVENTURE AWAITS</h1>
       <p>What are you waiting for?</p>
       <div className='hero-btns'>
