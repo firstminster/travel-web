@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from './Button'
 import './HeroSection.css'
-import videoUrl from '../assets/videos/video-2.mp4'
+// import videoUrl from '../assets/videos/video-2.mp4'
 
 const HeroSection = () => {
   return (

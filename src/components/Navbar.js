@@ -9,7 +9,7 @@ const Navbar = () => {
 
   // Toggle hamburger icon
   const handleClick = () => setClick(!click)
-  // Toggle mobile menu lists
+  // Close mobile menu-lists
   const closeMobileMenu = () => setClick(false)
 
   // Remove button on mobile size
